@@ -158,12 +158,27 @@ int menu() {
         cin >> opcion;
 
         switch (opcion) {
-            case 1: registrarCuentaBancaria(); break;
-            case 2: registrarTarjetaCredito(); break;
-            case 3: regitrarTransaccion(); break;
-            case 4: consultarSaldoCuentaBancaria(); break;
-            case 5: consultarSaldoTarjetaCredito(); break;
-            case 6: exit(1);
+            case 1:
+                registrarCuentaBancaria();
+                break;
+            case 2:
+                registrarTarjetaCredito();
+                break;
+            case 3:
+                regitrarTransaccion();
+                break;
+            case 4:
+                consultarSaldoCuentaBancaria();
+                break;
+            case 5:
+                consultarSaldoTarjetaCredito();
+                break;
+            case 6:
+                cout << "Saliendo..." << endl;
+                break;
+            default:
+                cout << "Opción inválida" << endl;
+                break;
         }
     } while (opcion != 6);
 
