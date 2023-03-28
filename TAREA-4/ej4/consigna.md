@@ -1,0 +1,1 @@
+4. Crea una clase "Círculo" con atributos como radio y diámetro, y métodos para calcular su área y circunferencia.

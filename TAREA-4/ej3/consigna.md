@@ -1,0 +1,1 @@
+3. Crea una clase "Rectángulo" con atributos como ancho y alto, y métodos para calcular su área y perímetro.

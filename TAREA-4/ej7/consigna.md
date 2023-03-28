@@ -1,0 +1,1 @@
+7. Crea un programa en C++ que use clases y objetos para simular un sistema de cajero automático, con clases para cuentas bancarias, transacciones y tarjetas de crédito.

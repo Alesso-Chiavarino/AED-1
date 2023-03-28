@@ -1,0 +1,1 @@
+8. Desarrolla un programa en C++ que use clases y objetos para implementar un sistema de gestión de citas médicas, con clases para pacientes, médicos, citas y registros médicos.

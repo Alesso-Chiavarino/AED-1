@@ -1,0 +1,1 @@
+11. Crea un programa en C++ que use clases y objetos para implementar un sistema de gestión de inventarios para una tienda en línea, con clases para productos, categorías, pedidos y carritos de compras.

@@ -1,0 +1,1 @@
+9. Crea un programa en C++ que use clases y objetos para simular un juego de cartas, con clases para cartas, jugadores, barajas y juegos.

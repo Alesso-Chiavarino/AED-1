@@ -1,0 +1,1 @@
+5. Crea una clase "Cuenta Bancaria" con atributos como número de cuenta y saldo, y métodos para depositar, retirar y consultar el saldo.

@@ -1,0 +1,1 @@
+2. Crea una clase "Coche" con atributos como marca, modelo y año, y métodos para obtener y establecer cada uno de estos atributos.

@@ -1,0 +1,1 @@
+10. Desarrolla un programa en C++ que use clases y objetos para crear una aplicación de registro de notas para estudiantes, con clases para estudiantes, cursos, notas y promedios.

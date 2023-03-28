@@ -1,0 +1,1 @@
+6. Crea una clase "Empleado" con atributos como nombre, salario y fecha de contratación, y métodos para obtener y establecer cada uno de estos atributos.

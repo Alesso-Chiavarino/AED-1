@@ -1,0 +1,1 @@
+1. Crea una clase "Persona" con atributos como nombre, edad y dirección, y métodos para obtener y establecer cada uno de estos atributos.
