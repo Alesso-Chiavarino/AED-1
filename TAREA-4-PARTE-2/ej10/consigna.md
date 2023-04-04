@@ -1,0 +1,1 @@
+Crear una clase Producto con atributos como nombre, precio, cantidad, etc. y luego crear una clase CarritoDeCompras que tenga un arreglo de objetos Producto y métodos para calcular el total de la compra y aplicar descuentos o promociones.

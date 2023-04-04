@@ -1,0 +1,1 @@
+Crear una clase Animal con métodos como comer y dormir y luego crear clases como Perro y Gato que hereden de Animal y tengan métodos específicos como ladrar y maullar.

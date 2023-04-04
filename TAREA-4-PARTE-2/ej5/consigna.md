@@ -1,0 +1,1 @@
+Crear una clase Estudiante con atributos como nombre, edad, nota, etc. y luego crear una clase Grupo que tenga un arreglo de objetos Estudiante y métodos para calcular el promedio de notas del grupo.

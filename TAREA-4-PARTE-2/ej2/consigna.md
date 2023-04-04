@@ -1,0 +1,1 @@
+Crear una clase Vehículo con atributos como marca, modelo, año, etc. y luego crear una clase Coche y una clase Moto que hereden de Vehículo y tengan atributos específicos como número de puertas, cilindrada, etc.

@@ -1,0 +1,1 @@
+Crear una clase Película con atributos como título, director, género, etc. y luego crear una clase Alquiler que tenga un objeto Película y métodos para calcular el costo del alquiler según la duración y otros factores.

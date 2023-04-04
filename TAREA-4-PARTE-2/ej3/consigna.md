@@ -1,0 +1,1 @@
+Crear una clase FiguraGeometrica con atributos como área y perímetro y luego crear clases como Triángulo, Cuadrado y Círculo que hereden de FiguraGeometrica y tengan métodos específicos para calcular su área y perímetro.

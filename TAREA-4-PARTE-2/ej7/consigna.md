@@ -1,0 +1,1 @@
+Crear una clase Animal con métodos como comer y dormir y luego crear una clase Veterinario que tenga un método para examinar a un objeto Animal y determinar si está enfermo o no.

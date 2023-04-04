@@ -1,0 +1,1 @@
+Crear una clase CuentaBancaria con atributos como saldo y número de cuenta y luego crear clases como CuentaCorriente y CuentaAhorro que hereden de CuentaBancaria y tengan métodos específicos como cobrar comisiones o calcular intereses.

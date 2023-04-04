@@ -1,0 +1,1 @@
+<!-- Crear una clase Persona con atributos como nombre, edad, género, etc. y luego crear una clase Empleado que herede de Persona y tenga atributos como salario, cargo, etc. -->

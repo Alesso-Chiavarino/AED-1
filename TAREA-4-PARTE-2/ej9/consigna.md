@@ -1,0 +1,1 @@
+Crear una clase Persona con atributos como nombre, edad, género, etc. y luego crear una clase Trabajador que tenga un objeto Persona y un método para calcular su salario según su cargo y otras variables.
