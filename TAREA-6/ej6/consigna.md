@@ -1,0 +1,1 @@
+Un programa que cree una lista de productos y permita al usuario agregar nuevos productos, eliminar productos y buscar productos por nombre o precio.

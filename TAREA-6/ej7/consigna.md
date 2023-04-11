@@ -1,0 +1,1 @@
+Un programa que permita al usuario ingresar una lista de números enteros y luego muestre la suma de los elementos de la lista.

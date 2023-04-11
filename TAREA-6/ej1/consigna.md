@@ -1,0 +1,1 @@
+Un programa que permita al usuario ingresar una lista de números enteros y, a continuación, elimine de la lista todos los números pares.
