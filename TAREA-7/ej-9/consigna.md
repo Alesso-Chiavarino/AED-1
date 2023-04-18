@@ -1,0 +1,1 @@
+9. Hacer un programa que permita ingresar dos listas, el programa debe mostrar las dos listas, intercalar la dos listas en una tercera lista, y debe calcular la resta de ambas listas y el resultado mostrarlo en una tercera lista.

@@ -1,0 +1,1 @@
+7. Mediante programación en C++, Hacer un programa que permita multiplicar los elementos de una lista.

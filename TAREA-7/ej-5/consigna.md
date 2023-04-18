@@ -1,0 +1,1 @@
+5. Haciendo uso de listas enlazadas, crearemos un programa que permita insertar elementos al inicio, eliminar elemento inicial, eliminar elemento final y por último eliminar todos los elementos de una lista. El programa también nos mostrará los elementos pares e impares de una lista.

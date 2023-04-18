@@ -1,0 +1,1 @@
+6. Mediante programación en C++, desarrollar un programa que busque elemento, invierte lista y muestra elemento central.

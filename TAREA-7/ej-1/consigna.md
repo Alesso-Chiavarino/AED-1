@@ -1,0 +1,1 @@
+1. Haciendo uso de Listas enlazadas ingresamos y mostramos elementos en el programa. Esto nos permite tener una lista de elementos llamados nodos de forma organizada.
