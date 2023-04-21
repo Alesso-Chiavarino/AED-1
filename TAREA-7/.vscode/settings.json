@@ -3,6 +3,10 @@
         "*.excalidraw": "json",
         "*.excalidrawlib": "json",
         "list": "cpp",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "__split_buffer": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "ostream": "cpp"
     }
 }
