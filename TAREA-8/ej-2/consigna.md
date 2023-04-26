@@ -1,0 +1,1 @@
+Escribir un programa en C++ que simule el funcionamiento de una calculadora básica utilizando una pila para almacenar los valores y operaciones. El programa debe permitir al usuario ingresar los valores y operaciones y mostrar el resultado final.

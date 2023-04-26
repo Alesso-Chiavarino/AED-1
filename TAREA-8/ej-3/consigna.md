@@ -1,0 +1,1 @@
+Implementar un programa en C++ que permita convertir una expresión infija a una expresión postfija utilizando una pila para almacenar los operadores. El programa debe tomar como entrada la expresión infija y mostrar la expresión postfija resultante. 
