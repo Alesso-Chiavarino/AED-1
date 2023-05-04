@@ -4,13 +4,6 @@
 
 using namespace std;
 
-// Confeccionar una clase que administre una lista tipo pila (se debe poder insertar, extraer e imprimir los datos de la pila)
-// Agregar a la clase Pila un método que retorne la cantidad de nodos y otro que indique si esta vacía.
-// Agregar un método a la clase Pila que retorne la información del primer nodo de la Pila sin borrarlo.
-// Se debe desarrollar una clase que tenga las siguientes responsabilidades (clase Formula):
-// Ingresar una fórmula que contenga paréntesis, corchetes y llaves.
-// Validar que los ( ) [] y {} estén correctamente balanceados.
-
 class Pila {
     private:
         stack<string> pila;
@@ -20,15 +13,15 @@ class Pila {
         }
         void extract() {
             if (pila.empty()) {
-                cout << "La pila esta vacia" << endl;
+                cout << "La pila está vacía" << endl;
             } else {
-                cout << "El dato extraido es: " << pila.top() << endl;
+                cout << "El dato extraído es: " << pila.top() << endl;
                 pila.pop();
             }
         }
         void print() {
             if (pila.empty()) {
-                cout << "La pila esta vacia" << endl;
+                cout << "La pila está vacía" << endl;
             } else {
                 cout << "Los datos de la pila son: " << endl;
                 while (!pila.empty()) {
@@ -40,14 +33,17 @@ class Pila {
 
         int quantity() {
             if(pila.empty()) {
-                cout << "La pila esta vacia" << endl;
+                cout << "La pila está vacía" << endl;
+                return 0;
             } else {
                 cout << "La cantidad de nodos es: " << pila.size() << endl;
+                return pila.size();
             }
         }
         string showFirst() {
             if(pila.empty()) {
-                cout << "La pila esta vacia" << endl;
+                cout << "La pila está vacía" << endl;
+                return "";
             } else {
                 cout << "El primer nodo es: " << pila.top() << endl;
                 return pila.top();
