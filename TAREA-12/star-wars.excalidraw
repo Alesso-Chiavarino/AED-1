@@ -1,0 +1,1561 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "elements": [
+    {
+      "id": "FBav5iopKgvn2UAPnSgGa",
+      "type": "text",
+      "x": 719.3963231668479,
+      "y": -13.447880694827717,
+      "width": 103.11993408203125,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": null,
+      "seed": 2050101870,
+      "version": 298,
+      "versionNonce": 140872686,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "OSqMGLAYwshv3Py4ThlSA",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1684448625934,
+      "link": null,
+      "locked": false,
+      "text": "Star Wars",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 18,
+      "containerId": null,
+      "originalText": "Star Wars",
+      "lineHeight": 1.25
+    },
+    {
+      "id": "s7KFqDg3H6muhEe0Wh7e8",
+      "type": "text",
+      "x": 58.96059927999764,
+      "y": 220.06992848200235,
+      "width": 83.69992065429688,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": null,
+      "seed": 1383401522,
+      "version": 265,
+      "versionNonce": 1361232686,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1684448588246,
+      "link": null,
+      "locked": false,
+      "text": "Precuela",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 18,
+      "containerId": null,
+      "originalText": "Precuela",
+      "lineHeight": 1.25
+    },
+    {
+      "id": "nEMwdNozn_QCoNV2RMil6",
+      "type": "text",
+      "x": 726.5920068683766,
+      "y": 220.06992848200235,
+      "width": 69.83993530273438,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": null,
+      "seed": 1024266286,
+      "version": 240,
+      "versionNonce": 1505808050,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1684448588246,
+      "link": null,
+      "locked": false,
+      "text": "Original",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 18,
+      "containerId": null,
+      "originalText": "Original",
+      "lineHeight": 1.25
+    },
+    {
+      "id": "FTK-R9yzBuN-2tjn-bV98",
+      "type": "text",
+      "x": 1400.7737432169874,
+      "y": 220.06992848200235,
+      "width": 74.03993225097656,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": null,
+      "seed": 313996142,
+      "version": 201,
+      "versionNonce": 981347694,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1684448588246,
+      "link": null,
+      "locked": false,
+      "text": "Secuela",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 18,
+      "containerId": null,
+      "originalText": "Secuela",
+      "lineHeight": 1.25
+    },
+    {
+      "type": "text",
+      "version": 461,
+      "versionNonce": 1774674738,
+      "isDeleted": false,
+      "id": "-RBpOAPEKKNNa84u8HsPY",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 52.6822070490212,
+      "y": 387.71916594816696,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 126.42221069335938,
+      "height": 38.012195487884405,
+      "seed": 1870488818,
+      "groupIds": [],
+      "roundness": null,
+      "boundElements": [],
+      "updated": 1684451547457,
+      "link": null,
+      "locked": false,
+      "fontSize": 10.136585463435841,
+      "fontFamily": 1,
+      "text": "Star Wars: \nEpisodio II\n El Ataque de los Clones",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Star Wars: \nEpisodio II\n El Ataque de los Clones",
+      "lineHeight": 1.25,
+      "baseline": 34
+    },
+    {
+      "type": "rectangle",
+      "version": 444,
+      "versionNonce": 1167077554,
+      "isDeleted": false,
+      "id": "OU-zj7DsccPwcbJOyxm-d",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 35.021968438243505,
+      "y": 377.9486500415818,
+      "strokeColor": "#087f5b",
+      "backgroundColor": "transparent",
+      "width": 154.66093761082456,
+      "height": 57.553227301054754,
+      "seed": 58557806,
+      "groupIds": [],
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "ESTpknT6OYpkrmKHDEpS5",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1684448707939,
+      "link": null,
+      "locked": false
+    },
+    {
+      "type": "text",
+      "version": 519,
+      "versionNonce": 54075630,
+      "isDeleted": false,
+      "id": "JvRz3ubbG7eMJafVI6BIl",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 231.3498827917308,
+      "y": 387.00106629217197,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 131.72166442871094,
+      "height": 39.44839479987443,
+      "seed": 1870488818,
+      "groupIds": [],
+      "roundness": null,
+      "boundElements": [],
+      "updated": 1684451547461,
+      "link": null,
+      "locked": false,
+      "fontSize": 10.519571946633182,
+      "fontFamily": 1,
+      "text": "Star Wars: \nEpisodio III\n La Venganza de los Sith",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Star Wars: \nEpisodio III\n La Venganza de los Sith",
+      "lineHeight": 1.25,
+      "baseline": 35
+    },
+    {
+      "type": "rectangle",
+      "version": 474,
+      "versionNonce": 509497778,
+      "isDeleted": false,
+      "id": "zzFIugHkSGwGG3nP5goqo",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 213.0223945728513,
+      "y": 376.86139495947367,
+      "strokeColor": "#087f5b",
+      "backgroundColor": "transparent",
+      "width": 160.50442887296956,
+      "height": 59.72773746527104,
+      "seed": 58557806,
+      "groupIds": [],
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "ILenTqeAnmbwQNKm7IZ1k",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1684448714794,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "FJnz0KjK3avLPPbRR2pwu",
+      "type": "rectangle",
+      "x": 44.214636697325716,
+      "y": 210.74588532091548,
+      "width": 113.19184581964072,
+      "height": 43.648086322173754,
+      "angle": 0,
+      "strokeColor": "#1864ab",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": {
+        "type": 3
+      },
+      "seed": 353616498,
+      "version": 192,
+      "versionNonce": 1747132402,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "OSqMGLAYwshv3Py4ThlSA",
+          "type": "arrow"
+        },
+        {
+          "id": "_2WOBffseF6vewAWpuEb3",
+          "type": "arrow"
+        },
+        {
+          "id": "ESTpknT6OYpkrmKHDEpS5",
+          "type": "arrow"
+        },
+        {
+          "id": "ILenTqeAnmbwQNKm7IZ1k",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1684448714794,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "tjKImswA0Hmv3VkqErfwt",
+      "type": "rectangle",
+      "x": 702.4847936829481,
+      "y": -25.312205369425044,
+      "width": 136.11101233831204,
+      "height": 49.98251340069223,
+      "angle": 0,
+      "strokeColor": "#5f3dc4",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1004321390,
+      "version": 342,
+      "versionNonce": 1424149294,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "uKVMTcoxHHOaDBJKvSKlP",
+          "type": "arrow"
+        },
+        {
+          "id": "uf81zEs6_eRVjAFc57b8w",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1684448662958,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "L-QaHoQBwQ9DCIU5IsuaK",
+      "type": "rectangle",
+      "x": 714.792506737192,
+      "y": 210.88497252913575,
+      "width": 98.39872241208695,
+      "height": 43.369911905733204,
+      "angle": 0,
+      "strokeColor": "#1864ab",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": {
+        "type": 3
+      },
+      "seed": 560263726,
+      "version": 214,
+      "versionNonce": 180269358,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "uKVMTcoxHHOaDBJKvSKlP",
+          "type": "arrow"
+        },
+        {
+          "id": "XPqmZ-NJvLalMZtGIkXUX",
+          "type": "arrow"
+        },
+        {
+          "id": "xGyIugwzlMxPOiM8mI_JI",
+          "type": "arrow"
+        },
+        {
+          "id": "qvKX4QN_NwZ8m0Tk5iWgm",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1684448692407,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "erQcrQZqu0HuwJ2aLJBz6",
+      "type": "rectangle",
+      "x": 1385.9251475725096,
+      "y": 209.63899914167723,
+      "width": 108.52811234557134,
+      "height": 45.86185868065024,
+      "angle": 0,
+      "strokeColor": "#1864ab",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": {
+        "type": 3
+      },
+      "seed": 731602674,
+      "version": 188,
+      "versionNonce": 2127830126,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "uf81zEs6_eRVjAFc57b8w",
+          "type": "arrow"
+        },
+        {
+          "id": "LPxb-aX3NMouT2cf5RhUz",
+          "type": "arrow"
+        },
+        {
+          "id": "MAVrqwwBwmnTsw59efSmX",
+          "type": "arrow"
+        },
+        {
+          "id": "H3Qwgm5D7CszevPMkKtie",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1684448731947,
+      "link": null,
+      "locked": false
+    },
+    {
+      "type": "text",
+      "version": 494,
+      "versionNonce": 1602236338,
+      "isDeleted": false,
+      "id": "WPVzLJ1CDuGPOljisI-vV",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 517.5806671696258,
+      "y": 387.00106629217197,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 119.36190795898438,
+      "height": 39.44839479987443,
+      "seed": 1870488818,
+      "groupIds": [],
+      "roundness": null,
+      "boundElements": [],
+      "updated": 1684448568104,
+      "link": null,
+      "locked": false,
+      "fontSize": 10.519571946633182,
+      "fontFamily": 1,
+      "text": "Star Wars: \nEpisodio IV\n Una Nueva Esperanza",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Star Wars: \nEpisodio IV\n Una Nueva Esperanza",
+      "lineHeight": 1.25,
+      "baseline": 35
+    },
+    {
+      "type": "rectangle",
+      "version": 424,
+      "versionNonce": 2089978926,
+      "isDeleted": false,
+      "id": "OEIXlapymg4_PC0cod1np",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 499.25317895074636,
+      "y": 376.86139495947367,
+      "strokeColor": "#087f5b",
+      "backgroundColor": "transparent",
+      "width": 160.50442887296956,
+      "height": 59.72773746527104,
+      "seed": 58557806,
+      "groupIds": [],
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "XPqmZ-NJvLalMZtGIkXUX",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1684448674388,
+      "link": null,
+      "locked": false
+    },
+    {
+      "type": "text",
+      "version": 561,
+      "versionNonce": 251881842,
+      "isDeleted": false,
+      "id": "xFbzlyaZazY-J5QYynpKn",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 703.8286895252476,
+      "y": 387.00106629217197,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 128.7788543701172,
+      "height": 39.44839479987443,
+      "seed": 1870488818,
+      "groupIds": [],
+      "roundness": null,
+      "boundElements": [],
+      "updated": 1684448568104,
+      "link": null,
+      "locked": false,
+      "fontSize": 10.519571946633182,
+      "fontFamily": 1,
+      "text": "Star Wars: \nEpisodio V\n El Imperio Contraataca",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Star Wars: \nEpisodio V\n El Imperio Contraataca",
+      "lineHeight": 1.25,
+      "baseline": 35
+    },
+    {
+      "type": "rectangle",
+      "version": 465,
+      "versionNonce": 1010544302,
+      "isDeleted": false,
+      "id": "fMpHuHzXmmMi8qoY-SUe0",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 685.5012013063682,
+      "y": 376.86139495947367,
+      "strokeColor": "#087f5b",
+      "backgroundColor": "transparent",
+      "width": 160.50442887296956,
+      "height": 59.72773746527104,
+      "seed": 58557806,
+      "groupIds": [],
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "xGyIugwzlMxPOiM8mI_JI",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1684448687182,
+      "link": null,
+      "locked": false
+    },
+    {
+      "type": "text",
+      "version": 615,
+      "versionNonce": 1702456114,
+      "isDeleted": false,
+      "id": "ElrQ73E9d_0VegE8Tp2XX",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 888.5935618922762,
+      "y": 387.00106629217197,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 105.94065856933594,
+      "height": 39.44839479987443,
+      "seed": 1870488818,
+      "groupIds": [],
+      "roundness": null,
+      "boundElements": [],
+      "updated": 1684448568104,
+      "link": null,
+      "locked": false,
+      "fontSize": 10.519571946633182,
+      "fontFamily": 1,
+      "text": "Star Wars: \nEpisodio VI\n El Retorno del Jedi",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Star Wars: \nEpisodio VI\n El Retorno del Jedi",
+      "lineHeight": 1.25,
+      "baseline": 35
+    },
+    {
+      "type": "rectangle",
+      "version": 496,
+      "versionNonce": 1986812782,
+      "isDeleted": false,
+      "id": "WUgRt3hPwFPFhxDLGKzkY",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 870.2660736733968,
+      "y": 376.86139495947367,
+      "strokeColor": "#087f5b",
+      "backgroundColor": "transparent",
+      "width": 160.50442887296956,
+      "height": 59.72773746527104,
+      "seed": 58557806,
+      "groupIds": [],
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "qvKX4QN_NwZ8m0Tk5iWgm",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1684448692407,
+      "link": null,
+      "locked": false
+    },
+    {
+      "type": "text",
+      "version": 564,
+      "versionNonce": 155792626,
+      "isDeleted": false,
+      "id": "UL9VCF3ZlXJ0gmQ7ygbFJ",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": -128.9411637132992,
+      "y": 387.719165948167,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 119.10833740234375,
+      "height": 38.012195487884405,
+      "seed": 1870488818,
+      "groupIds": [],
+      "roundness": null,
+      "boundElements": [],
+      "updated": 1684448568104,
+      "link": null,
+      "locked": false,
+      "fontSize": 10.136585463435841,
+      "fontFamily": 1,
+      "text": "Star Wars: \nEpisodio I\n La Amenaza Fantasma",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Star Wars: \nEpisodio I\n La Amenaza Fantasma",
+      "lineHeight": 1.25,
+      "baseline": 34
+    },
+    {
+      "type": "rectangle",
+      "version": 524,
+      "versionNonce": 111170926,
+      "isDeleted": false,
+      "id": "IHs9ADcTyt7F59bY2wlAR",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": -146.6014023240769,
+      "y": 377.94865004158186,
+      "strokeColor": "#087f5b",
+      "backgroundColor": "transparent",
+      "width": 154.66093761082456,
+      "height": 57.553227301054754,
+      "seed": 58557806,
+      "groupIds": [],
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "_2WOBffseF6vewAWpuEb3",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1684448703193,
+      "link": null,
+      "locked": false
+    },
+    {
+      "type": "text",
+      "version": 659,
+      "versionNonce": 1006225074,
+      "isDeleted": false,
+      "id": "sRU1kYFuUcxciisCpFEse",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1169.1544948826386,
+      "y": 387.00106629217197,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 145.48973083496094,
+      "height": 39.44839479987443,
+      "seed": 1870488818,
+      "groupIds": [],
+      "roundness": null,
+      "boundElements": [],
+      "updated": 1684448568104,
+      "link": null,
+      "locked": false,
+      "fontSize": 10.519571946633182,
+      "fontFamily": 1,
+      "text": "Star Wars: \nEpisodio VII\n El Despertar de la Fuerza",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Star Wars: \nEpisodio VII\n El Despertar de la Fuerza",
+      "lineHeight": 1.25,
+      "baseline": 35
+    },
+    {
+      "type": "rectangle",
+      "version": 498,
+      "versionNonce": 1618645998,
+      "isDeleted": false,
+      "id": "rPLm6wHs0Iu7DzDHgrpWm",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1150.8270066637592,
+      "y": 376.86139495947367,
+      "strokeColor": "#087f5b",
+      "backgroundColor": "transparent",
+      "width": 160.50442887296956,
+      "height": 59.72773746527104,
+      "seed": 58557806,
+      "groupIds": [],
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "LPxb-aX3NMouT2cf5RhUz",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1684448721192,
+      "link": null,
+      "locked": false
+    },
+    {
+      "type": "text",
+      "version": 689,
+      "versionNonce": 1982996594,
+      "isDeleted": false,
+      "id": "H0Im16rwOtx6waPMB0ET6",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1377.9668132194618,
+      "y": 387.00106629217197,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 90.97444152832031,
+      "height": 39.44839479987443,
+      "seed": 1870488818,
+      "groupIds": [],
+      "roundness": null,
+      "boundElements": [],
+      "updated": 1684448568104,
+      "link": null,
+      "locked": false,
+      "fontSize": 10.519571946633182,
+      "fontFamily": 1,
+      "text": "Star Wars: \nEpisodio VIII\n Los Ultimos Jedi",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Star Wars: \nEpisodio VIII\n Los Ultimos Jedi",
+      "lineHeight": 1.25,
+      "baseline": 35
+    },
+    {
+      "type": "rectangle",
+      "version": 510,
+      "versionNonce": 1722596594,
+      "isDeleted": false,
+      "id": "pt0uaFLkhtGbjjd7xNfes",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1359.6393250005829,
+      "y": 376.86139495947367,
+      "strokeColor": "#087f5b",
+      "backgroundColor": "transparent",
+      "width": 160.50442887296956,
+      "height": 59.72773746527104,
+      "seed": 58557806,
+      "groupIds": [],
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "MAVrqwwBwmnTsw59efSmX",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1684448726256,
+      "link": null,
+      "locked": false
+    },
+    {
+      "type": "text",
+      "version": 714,
+      "versionNonce": 62472754,
+      "isDeleted": false,
+      "id": "PyeglcluaBX5LgPHhCFkl",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1598.239698498525,
+      "y": 387.00106629217197,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 130.66015625,
+      "height": 39.44839479987443,
+      "seed": 1870488818,
+      "groupIds": [],
+      "roundness": null,
+      "boundElements": [],
+      "updated": 1684448568104,
+      "link": null,
+      "locked": false,
+      "fontSize": 10.519571946633182,
+      "fontFamily": 1,
+      "text": "Star Wars: \nEpisodio VIII\n El Ascenso de Skywalker",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Star Wars: \nEpisodio VIII\n El Ascenso de Skywalker",
+      "lineHeight": 1.25,
+      "baseline": 35
+    },
+    {
+      "type": "rectangle",
+      "version": 511,
+      "versionNonce": 1932680878,
+      "isDeleted": false,
+      "id": "Lwm1l5eS-3SHcg04GifpO",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1579.9122102796462,
+      "y": 376.86139495947367,
+      "strokeColor": "#087f5b",
+      "backgroundColor": "transparent",
+      "width": 160.50442887296956,
+      "height": 59.72773746527104,
+      "seed": 58557806,
+      "groupIds": [],
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "H3Qwgm5D7CszevPMkKtie",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1684448731947,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "OSqMGLAYwshv3Py4ThlSA",
+      "type": "arrow",
+      "x": 706.3217091517008,
+      "y": 20.14481445633038,
+      "width": 548.8551596644527,
+      "height": 189.81222233643024,
+      "angle": 6.255234320980784,
+      "strokeColor": "#5f3dc4",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "seed": 2082074098,
+      "version": 279,
+      "versionNonce": 1167123566,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1684448755611,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -363.01903331549624,
+          83.48375336307066
+        ],
+        [
+          -548.8551596644527,
+          189.81222233643024
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "FBav5iopKgvn2UAPnSgGa",
+        "focus": 0.15522979587323835,
+        "gap": 15.857058637820728
+      },
+      "endBinding": {
+        "elementId": "FJnz0KjK3avLPPbRR2pwu",
+        "focus": 0.3774324254520061,
+        "gap": 2.7967550448591396
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "id": "uKVMTcoxHHOaDBJKvSKlP",
+      "type": "arrow",
+      "x": 770.7315916331946,
+      "y": 29.017614274076664,
+      "width": 4.090128175824248,
+      "height": 172.6965052457275,
+      "angle": 0,
+      "strokeColor": "#5f3dc4",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1948852018,
+      "version": 56,
+      "versionNonce": 1006916590,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1684448653225,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          4.090128175824248,
+          172.6965052457275
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "tjKImswA0Hmv3VkqErfwt",
+        "focus": 0.007335457332841758,
+        "gap": 4.347306242809481
+      },
+      "endBinding": {
+        "elementId": "L-QaHoQBwQ9DCIU5IsuaK",
+        "focus": 0.23254783732769058,
+        "gap": 9.17085300933158
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "id": "uf81zEs6_eRVjAFc57b8w",
+      "type": "arrow",
+      "x": 844.396184899511,
+      "y": 18.400462668277328,
+      "width": 550.6679174049785,
+      "height": 181.9170798570018,
+      "angle": 0,
+      "strokeColor": "#5f3dc4",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "seed": 477079086,
+      "version": 106,
+      "versionNonce": 682467442,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1684448662964,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          428.50637635112287,
+          75.0470080909937
+        ],
+        [
+          550.6679174049785,
+          181.9170798570018
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "tjKImswA0Hmv3VkqErfwt",
+        "focus": 0.1567740150027764,
+        "gap": 5.800378878250854
+      },
+      "endBinding": {
+        "elementId": "erQcrQZqu0HuwJ2aLJBz6",
+        "focus": -0.10261305539804211,
+        "gap": 9.321456616398109
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "id": "XPqmZ-NJvLalMZtGIkXUX",
+      "type": "arrow",
+      "x": 720.5643762385515,
+      "y": 254.4551088762313,
+      "width": 118.19980764429374,
+      "height": 112.32831899128576,
+      "angle": 0,
+      "strokeColor": "#1864ab",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1522844210,
+      "version": 71,
+      "versionNonce": 1066610,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1684448680781,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -118.19980764429374,
+          112.32831899128576
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "L-QaHoQBwQ9DCIU5IsuaK",
+        "focus": 0.28324044897635314,
+        "gap": 1
+      },
+      "endBinding": {
+        "elementId": "OEIXlapymg4_PC0cod1np",
+        "focus": -0.17165966017230552,
+        "gap": 10.077967091956623
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "id": "xGyIugwzlMxPOiM8mI_JI",
+      "type": "arrow",
+      "x": 767.5506480405276,
+      "y": 263.3336537251423,
+      "width": 2.1092280696991565,
+      "height": 107.08384036748521,
+      "angle": 0,
+      "strokeColor": "#1864ab",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "seed": 948097522,
+      "version": 37,
+      "versionNonce": 2040421170,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1684448687186,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          2.1092280696991565,
+          107.08384036748521
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "L-QaHoQBwQ9DCIU5IsuaK",
+        "focus": -0.059501038915266764,
+        "gap": 9.078769290273357
+      },
+      "endBinding": {
+        "elementId": "fMpHuHzXmmMi8qoY-SUe0",
+        "focus": 0.0571695747343767,
+        "gap": 6.44390086684615
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "id": "qvKX4QN_NwZ8m0Tk5iWgm",
+      "type": "arrow",
+      "x": 815.1609237507527,
+      "y": 248.81535874776205,
+      "width": 123.09116725952936,
+      "height": 115.91589054557494,
+      "angle": 0,
+      "strokeColor": "#1864ab",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "seed": 980265198,
+      "version": 84,
+      "versionNonce": 1094597614,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1684448697374,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          123.09116725952936,
+          115.91589054557494
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "L-QaHoQBwQ9DCIU5IsuaK",
+        "focus": -0.4696054775117176,
+        "gap": 1.9696946014737478
+      },
+      "endBinding": {
+        "elementId": "WUgRt3hPwFPFhxDLGKzkY",
+        "focus": 0.28872745811404193,
+        "gap": 12.130145666136684
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "id": "_2WOBffseF6vewAWpuEb3",
+      "type": "arrow",
+      "x": 55.604341224280574,
+      "y": 260.087243498273,
+      "width": 97.74923356786041,
+      "height": 106.28574865440805,
+      "angle": 0,
+      "strokeColor": "#1864ab",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "seed": 841780782,
+      "version": 42,
+      "versionNonce": 1917616242,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1684448703196,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -97.74923356786041,
+          106.28574865440805
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "FJnz0KjK3avLPPbRR2pwu",
+        "focus": 0.2595506227877076,
+        "gap": 5.6932718551837525
+      },
+      "endBinding": {
+        "elementId": "IHs9ADcTyt7F59bY2wlAR",
+        "focus": -0.09620107164943727,
+        "gap": 11.57565788890085
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "id": "ESTpknT6OYpkrmKHDEpS5",
+      "type": "arrow",
+      "x": 104.74266161893922,
+      "y": 258.12057236468377,
+      "width": 7.410622583642976,
+      "height": 111.21665546091685,
+      "angle": 0,
+      "strokeColor": "#1864ab",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "seed": 118454190,
+      "version": 47,
+      "versionNonce": 2023778286,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1684448708878,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          7.410622583642976,
+          111.21665546091685
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "FJnz0KjK3avLPPbRR2pwu",
+        "focus": -0.03840825853868697,
+        "gap": 3.7266007215945365
+      },
+      "endBinding": {
+        "elementId": "OU-zj7DsccPwcbJOyxm-d",
+        "focus": 0.02892313260002446,
+        "gap": 8.61142221598115
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "id": "ILenTqeAnmbwQNKm7IZ1k",
+      "type": "arrow",
+      "x": 165.5384518790229,
+      "y": 259.4601666663775,
+      "width": 96.26708233005661,
+      "height": 111.97199345369859,
+      "angle": 0,
+      "strokeColor": "#1864ab",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "seed": 763447218,
+      "version": 48,
+      "versionNonce": 984504942,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1684448714798,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          96.26708233005661,
+          111.97199345369859
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "FJnz0KjK3avLPPbRR2pwu",
+        "focus": -0.5521466880688042,
+        "gap": 8.131969362056452
+      },
+      "endBinding": {
+        "elementId": "zzFIugHkSGwGG3nP5goqo",
+        "focus": -0.010630799169781971,
+        "gap": 5.429234839397566
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "id": "LPxb-aX3NMouT2cf5RhUz",
+      "type": "arrow",
+      "x": 1415.0471911705679,
+      "y": 261.27292440690314,
+      "width": 137.52442241513472,
+      "height": 106.37125609499901,
+      "angle": 0,
+      "strokeColor": "#1864ab",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1964301486,
+      "version": 44,
+      "versionNonce": 1958417778,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1684448721881,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -137.52442241513472,
+          106.37125609499901
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "erQcrQZqu0HuwJ2aLJBz6",
+        "focus": -0.14261914173386828,
+        "gap": 5.7720665845756685
+      },
+      "endBinding": {
+        "elementId": "rPLm6wHs0Iu7DzDHgrpWm",
+        "focus": -0.034353107299065745,
+        "gap": 9.217214457571515
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "id": "MAVrqwwBwmnTsw59efSmX",
+      "type": "arrow",
+      "x": 1447.4545111544944,
+      "y": 262.98307321871994,
+      "width": 1.624641371226062,
+      "height": 110.7036108173719,
+      "angle": 0,
+      "strokeColor": "#1864ab",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1462906094,
+      "version": 35,
+      "versionNonce": 409915310,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1684448726878,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -1.624641371226062,
+          110.7036108173719
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "erQcrQZqu0HuwJ2aLJBz6",
+        "focus": -0.1412372952314844,
+        "gap": 7.482215396392462
+      },
+      "endBinding": {
+        "elementId": "pt0uaFLkhtGbjjd7xNfes",
+        "focus": 0.06758503883841782,
+        "gap": 3.174710923381838
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "id": "H3Qwgm5D7CszevPMkKtie",
+      "type": "arrow",
+      "x": 1500.2126019990396,
+      "y": 264.50797817681905,
+      "width": 122.76022674336764,
+      "height": 100.95576259001677,
+      "angle": 0,
+      "strokeColor": "#1864ab",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "seed": 181777394,
+      "version": 55,
+      "versionNonce": 31131314,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1684448732574,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          122.76022674336764,
+          100.95576259001677
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "erQcrQZqu0HuwJ2aLJBz6",
+        "focus": -0.2579180908971243,
+        "gap": 9.007120354491576
+      },
+      "endBinding": {
+        "elementId": "Lwm1l5eS-3SHcg04GifpO",
+        "focus": 0.11136691726363392,
+        "gap": 11.397654192637845
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
